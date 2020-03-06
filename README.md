@@ -1,5 +1,3 @@
-위 첨부된 폴더들은 1차로 완료된 "웹 프로젝트" 입니다.
-현재 2차 "분석, 시각화 프로젝트" 를 진행하고 있습니다. 
 
 `spring-di, spring-ioc를 통한 portable abstract service의 구현
 
